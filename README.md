@@ -2,7 +2,7 @@
 
 A full-stack remittance application similar to Remitly, built with Node.js/Express backend, PostgreSQL database, and React frontend.
 
-![RemitFlow](https://via.placeholder.com/800x400/0a0a0f/22c55e?text=RemitFlow)
+[Live Site](https://remit-five.vercel.app/)
 
 ## Features
 
